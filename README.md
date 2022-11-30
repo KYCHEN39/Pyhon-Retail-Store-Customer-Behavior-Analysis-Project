@@ -12,5 +12,8 @@ Total Orders by Region, City and State\
 Main Category of Product Ordered\
 Top 10 Products Ordered in Superstores\
 
+## Exploratory Data Analysis(EDA)
+[View the analysis](https://github.com/KYCHEN39/Pyhon-Retail-Store-Customer-Behavior-Analysis-Project/blob/main/Retail%20Store%2C%20Customer%20Behavior%20Analysis.ipynb)
+
 ## Insights and Conclusions
 To conclude, if you are the retail store owner who is planning to grow the store sales and get a better understanding on the customer behaviour to set up your own sales and marketing strategy, I suggest you should target Consumer segment customer as they represented the most sales & quantity of items ordered across all segments. According to the EDA, you should be focusing on selling Staples related products as most customers ordered these from Superstores. Regarding the marketing and promotion time period, I suggest you should only spend money on ads in January, May and September as we observed these months were the Months with Most Orders. If you want the exact Day of Week, then you should put ads on Monday as we observed Monday had the most orders, this will be more effective because your marketing promotion message shows at the perfect time to attract your new customers. From a geographical point of view, you should target more on US West Region, for Cities, put more ads in New York City, Los Angeles, and Philadelphia while for States, put more marketing promotion in California, New York, and Texas.
